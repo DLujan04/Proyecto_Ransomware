@@ -1,0 +1,1 @@
+uname_result(system='Windows', node='LAPTOP-14E723V0', release='10', version='10.0.22621', machine='AMD64')
